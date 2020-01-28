@@ -27,7 +27,7 @@ which were create under database
   * atechcomputer.database.windows.net
   
   Here is the screenshot of the design which we created in creatly
-  <img height = "700" src = ""/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/DesignView.jpeg"/>
   
   Here is the screenshot of the web site design
   ------
