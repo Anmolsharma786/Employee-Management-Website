@@ -2,7 +2,7 @@
 # AssignmentOneAsp.Net
 
 # ANMOL SHARMA -- 200419191
-# JESHAN CHABRA --   
+# JESHAN CHABRA -- 200427309   
 
 
 
@@ -27,7 +27,7 @@ which were create under database
   * atechcomputer.database.windows.net
   
   Here is the screenshot of the design which we created in creatly
-  ------ 
+  
   
   Here is the screenshot of the web site design
   ------
