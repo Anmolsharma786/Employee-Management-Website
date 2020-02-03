@@ -33,7 +33,18 @@ which were create under database
   Here is the screenshot of the web site design
   ------
   
-  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/DesignView.jpeg"/>
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/2.jpeg"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/3.jpeg"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/4.jpeg"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/5.jpeg"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/6.jpeg"/>
+  
+  <img height = "700" src = "https://github.com/Anmolsharma786/AssignmentOneAsp.Net/blob/master/WhatsApp%20Image%202020-02-03%20at%206.27.53%20PM.jpeg"/>
+  
   
   
   
